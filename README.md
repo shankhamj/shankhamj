@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shankhamj (shankhadip majumder)
-- 👀 I’m interested in product management, data science, trading and building cool software products
-- 🌱 I’m currently pursuing masters in computer science and have a day job as a product manager at a fortune 1000 software company. 
+- 👀 I’m interested in product management, software and machine learning.
+- 🌱 I am currently woring as a product lead in a US tech firm and do contract roles as a developer.
 I also run trading bots on the side! 
 - 📫 You can check out more details about me on my [resume page](https://shankhamj.github.io/resume).
 - You can also read my blog [here](http://localhost:3000/blog/Phoneasacctv)
